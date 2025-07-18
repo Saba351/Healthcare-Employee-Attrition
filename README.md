@@ -1,6 +1,5 @@
 # Healthcare-Employee-Attrition
-Healthcare Employee Attrition Analysis (SQL + Tableau)
-# 📊 Healthcare Employee Attrition Analysis (SQL + BigQuery)
+# 📊 Healthcare Employee Attrition Analysis (SQL + Tableau)
 
 This project explores employee attrition in a healthcare organization using SQL and Tableau. The goal is to identify key factors contributing to employee turnover and highlight high-risk groups that need HR attention.
 
@@ -35,12 +34,6 @@ This project explores employee attrition in a healthcare organization using SQL 
 - **Tableau** – for interactive visualizations
 
 ---
-
-## 📁 Repository Contents
-- SQL query scripts used for analysis
-- Tableau screenshots for visual insights
-
----
 ## 📷 SQL Query & Dashboard Screenshots
 
 ![Income Group vs Attrition](attrition%20by%20income.png)
@@ -51,7 +44,7 @@ This project explores employee attrition in a healthcare organization using SQL 
 
 
 ### 📊 Tableau Dashboard
-
+![Summary Dashboard](Dashboard%201.png)
 
 ---
 
