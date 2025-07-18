@@ -50,7 +50,7 @@ This project explores employee attrition in a healthcare organization using SQL 
 ![Overtime vs Attrition](images/overtime_vs_attrition.png)
 
 ### 3. Job Satisfaction vs Attrition
-![Job Satisfaction vs Attrition](images/job_satisfaction_vs_attrition.png)
+![Job Satisfaction vs Attrition](jobsatisfaction vs attrition.png)
 
 ### 4. Age Group vs Attrition
 ![Age Group vs Attrition](images/age_vs_attrition.png)
