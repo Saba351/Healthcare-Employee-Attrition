@@ -43,9 +43,7 @@ This project explores employee attrition in a healthcare organization using SQL 
 ---
 ## 📷 SQL Query & Dashboard Screenshots
 
-### 1. Income Group vs Attrition
-![Income Group vs Attrition](images/income_vs_attrition.png
-
+![Income Group vs Attrition](attrition%20by%20income.png)
 ![Overtime vs Attrition](overtime%20vs%20attrition.png)
 ![Job Satisfaction vs Attrition](jobsatisfaction%20vs%20attrition.png)
 ![Age Group vs Attrition](attrition%20by%20age.png)
@@ -53,7 +51,7 @@ This project explores employee attrition in a healthcare organization using SQL 
 
 
 ### 📊 Tableau Dashboard
-![Attrition Dashboard](images/tableau_dashboard.png)
+
 
 ---
 
