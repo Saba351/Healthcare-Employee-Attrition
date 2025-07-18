@@ -48,12 +48,9 @@ This project explores employee attrition in a healthcare organization using SQL 
 
 ![Overtime vs Attrition](overtime%20vs%20attrition.png)
 ![Job Satisfaction vs Attrition](jobsatisfaction%20vs%20attrition.png)
+![Age Group vs Attrition](attrition%20by%20age.png)
+![Attrition: Overtime & Low Income](attrition%20where%20overtime%20and%20low%20income.png)
 
-### 4. Age Group vs Attrition
-![Age Group vs Attrition](images/age_vs_attrition.png)
-
-### 5. Overtime + Low Income Segment
-![Overtime and Low Income Segment](images/overtime_low_income.png)
 
 ### 📊 Tableau Dashboard
 ![Attrition Dashboard](images/tableau_dashboard.png)
